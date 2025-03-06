@@ -1,0 +1,14 @@
+C:\Linco\ListaExercicios\Exercicio06A\bin\Debug\net8.0\Exercicio06A.exe
+C:\Linco\ListaExercicios\Exercicio06A\bin\Debug\net8.0\Exercicio06A.deps.json
+C:\Linco\ListaExercicios\Exercicio06A\bin\Debug\net8.0\Exercicio06A.runtimeconfig.json
+C:\Linco\ListaExercicios\Exercicio06A\bin\Debug\net8.0\Exercicio06A.dll
+C:\Linco\ListaExercicios\Exercicio06A\bin\Debug\net8.0\Exercicio06A.pdb
+C:\Linco\ListaExercicios\Exercicio06A\obj\Debug\net8.0\Exercicio06A.GeneratedMSBuildEditorConfig.editorconfig
+C:\Linco\ListaExercicios\Exercicio06A\obj\Debug\net8.0\Exercicio06A.AssemblyInfoInputs.cache
+C:\Linco\ListaExercicios\Exercicio06A\obj\Debug\net8.0\Exercicio06A.AssemblyInfo.cs
+C:\Linco\ListaExercicios\Exercicio06A\obj\Debug\net8.0\Exercicio06A.csproj.CoreCompileInputs.cache
+C:\Linco\ListaExercicios\Exercicio06A\obj\Debug\net8.0\Exercicio06A.dll
+C:\Linco\ListaExercicios\Exercicio06A\obj\Debug\net8.0\refint\Exercicio06A.dll
+C:\Linco\ListaExercicios\Exercicio06A\obj\Debug\net8.0\Exercicio06A.pdb
+C:\Linco\ListaExercicios\Exercicio06A\obj\Debug\net8.0\Exercicio06A.genruntimeconfig.cache
+C:\Linco\ListaExercicios\Exercicio06A\obj\Debug\net8.0\ref\Exercicio06A.dll
