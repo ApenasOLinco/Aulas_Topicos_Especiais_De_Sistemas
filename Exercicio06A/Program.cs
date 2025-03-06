@@ -48,10 +48,11 @@ static void BubbleSort(int[] array)
 
     Console.WriteLine("SORTED:");
     Console.Write("{");
-    
-    for(int i = 0; i < array.Length; i++) {
+
+    for (int i = 0; i < array.Length; i++)
+    {
         Console.Write(array[i] + (i < array.Length - 1 ? "," : ""));
     }
-    
+
     Console.WriteLine("}");
 }
