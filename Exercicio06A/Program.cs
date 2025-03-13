@@ -4,26 +4,27 @@ Desenvolver um algoritmo para receber 1000 valores automaticamente dentro de um 
 1. Desenvolver o algoritmo de ordenação (Bubble Sort);
 */
 
-const int MAX_VAL = 10;
-int[] array = new int[5];
+const int MAX_VAL = 1000;
+int[] array = new int[1000];
 
 PreencherArray(array);
+Console.WriteLine("UNSORTED: ");
+PrintarArray(array);
+
 BubbleSort(array);
+Console.WriteLine("SORTED: ");
+PrintarArray(array);
 
 
 static void PreencherArray(int[] array)
 {
     Random random = new();
 
-    Console.WriteLine("UNSORTED:");
-    Console.Write("{");
     for (int i = 0; i < array.Length; i++)
     {
         int r = random.Next(MAX_VAL);
         array[i] = r;
-        Console.Write(array[i] + (i < array.Length - 1 ? "," : ""));
     }
-    Console.WriteLine("}");
 }
 
 
@@ -45,13 +46,14 @@ static void BubbleSort(int[] array)
             }
         }
     }
+}
 
-    Console.WriteLine("SORTED:");
+static void PrintarArray(int[] array) {
     Console.Write("{");
 
     for (int i = 0; i < array.Length; i++)
     {
-        Console.Write(array[i] + (i < array.Length - 1 ? "," : ""));
+        Console.Write(array[i] + (i < array.Length - 1 ? ", " : ""));
     }
 
     Console.WriteLine("}");
