@@ -10,6 +10,10 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Cálculo de Fatorial com wh
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Conversor de Temperaturas com Menu", "Conversor de Temperaturas com Menu\Conversor de Temperaturas com Menu.csproj", "{B5A6D2EF-1D24-49DE-912C-09E4390AD2BA}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Verificador de Palíndromos", "Verificador de Palíndromos\Verificador de Palíndromos.csproj", "{CC2FF2CC-656B-4F0A-92A4-F7F2AEE892F9}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Cadastro Simples de Produtos", "Cadastro Simples de Produtos\Cadastro Simples de Produtos.csproj", "{CCEF5D9C-2987-4799-9556-B38A5E770B32}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -35,5 +39,13 @@ Global
 		{B5A6D2EF-1D24-49DE-912C-09E4390AD2BA}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{B5A6D2EF-1D24-49DE-912C-09E4390AD2BA}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{B5A6D2EF-1D24-49DE-912C-09E4390AD2BA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{CC2FF2CC-656B-4F0A-92A4-F7F2AEE892F9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CC2FF2CC-656B-4F0A-92A4-F7F2AEE892F9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CC2FF2CC-656B-4F0A-92A4-F7F2AEE892F9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CC2FF2CC-656B-4F0A-92A4-F7F2AEE892F9}.Release|Any CPU.Build.0 = Release|Any CPU
+		{CCEF5D9C-2987-4799-9556-B38A5E770B32}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CCEF5D9C-2987-4799-9556-B38A5E770B32}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CCEF5D9C-2987-4799-9556-B38A5E770B32}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CCEF5D9C-2987-4799-9556-B38A5E770B32}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal
