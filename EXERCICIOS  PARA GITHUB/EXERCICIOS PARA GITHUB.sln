@@ -20,6 +20,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Cálculo de IMC com Classif
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Jogo da adivinhação", "Jogo da adivinhação\Jogo da adivinhação.csproj", "{23C1A71F-BC7D-418F-B562-81C0E84A585B}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TodoList", "TodoList\TodoList.csproj", "{C6006A7F-D3DC-4E9E-BD83-B83D378C33FB}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -65,5 +67,9 @@ Global
 		{23C1A71F-BC7D-418F-B562-81C0E84A585B}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{23C1A71F-BC7D-418F-B562-81C0E84A585B}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{23C1A71F-BC7D-418F-B562-81C0E84A585B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C6006A7F-D3DC-4E9E-BD83-B83D378C33FB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C6006A7F-D3DC-4E9E-BD83-B83D378C33FB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C6006A7F-D3DC-4E9E-BD83-B83D378C33FB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C6006A7F-D3DC-4E9E-BD83-B83D378C33FB}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal
