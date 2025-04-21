@@ -14,6 +14,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Verificador de Palíndromos
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Cadastro Simples de Produtos", "Cadastro Simples de Produtos\Cadastro Simples de Produtos.csproj", "{CCEF5D9C-2987-4799-9556-B38A5E770B32}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Soma de Números Pares de Um Array", "Soma de Números Pares de Um Array\Soma de Números Pares de Um Array.csproj", "{FAF5A2B4-03EF-4C5A-90DB-6FA6BD8F0289}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -47,5 +49,9 @@ Global
 		{CCEF5D9C-2987-4799-9556-B38A5E770B32}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{CCEF5D9C-2987-4799-9556-B38A5E770B32}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{CCEF5D9C-2987-4799-9556-B38A5E770B32}.Release|Any CPU.Build.0 = Release|Any CPU
+		{FAF5A2B4-03EF-4C5A-90DB-6FA6BD8F0289}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FAF5A2B4-03EF-4C5A-90DB-6FA6BD8F0289}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FAF5A2B4-03EF-4C5A-90DB-6FA6BD8F0289}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FAF5A2B4-03EF-4C5A-90DB-6FA6BD8F0289}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal
