@@ -18,6 +18,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Soma de Números Pares de U
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Cálculo de IMC com Classificacão", "Cálculo de IMC com Classificacão\Cálculo de IMC com Classificacão.csproj", "{43D400B9-220C-4D30-A132-8E24BBBA636E}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Jogo da adivinhação", "Jogo da adivinhação\Jogo da adivinhação.csproj", "{23C1A71F-BC7D-418F-B562-81C0E84A585B}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -59,5 +61,9 @@ Global
 		{43D400B9-220C-4D30-A132-8E24BBBA636E}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{43D400B9-220C-4D30-A132-8E24BBBA636E}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{43D400B9-220C-4D30-A132-8E24BBBA636E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{23C1A71F-BC7D-418F-B562-81C0E84A585B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{23C1A71F-BC7D-418F-B562-81C0E84A585B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{23C1A71F-BC7D-418F-B562-81C0E84A585B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{23C1A71F-BC7D-418F-B562-81C0E84A585B}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal
