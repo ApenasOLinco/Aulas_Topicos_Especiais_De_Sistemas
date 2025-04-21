@@ -16,6 +16,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Cadastro Simples de Produto
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Soma de Números Pares de Um Array", "Soma de Números Pares de Um Array\Soma de Números Pares de Um Array.csproj", "{FAF5A2B4-03EF-4C5A-90DB-6FA6BD8F0289}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Cálculo de IMC com Classificacão", "Cálculo de IMC com Classificacão\Cálculo de IMC com Classificacão.csproj", "{43D400B9-220C-4D30-A132-8E24BBBA636E}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -53,5 +55,9 @@ Global
 		{FAF5A2B4-03EF-4C5A-90DB-6FA6BD8F0289}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{FAF5A2B4-03EF-4C5A-90DB-6FA6BD8F0289}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{FAF5A2B4-03EF-4C5A-90DB-6FA6BD8F0289}.Release|Any CPU.Build.0 = Release|Any CPU
+		{43D400B9-220C-4D30-A132-8E24BBBA636E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{43D400B9-220C-4D30-A132-8E24BBBA636E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{43D400B9-220C-4D30-A132-8E24BBBA636E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{43D400B9-220C-4D30-A132-8E24BBBA636E}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal
