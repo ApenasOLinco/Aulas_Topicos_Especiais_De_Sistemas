@@ -1,12 +1,12 @@
-namespace API_Biblioteca.App.Data;
-
 using API_Biblioteca.App.Model;
 
-public class LivrosDB
+namespace API_Biblioteca.App.Data
 {
-    private static List<Livro> livros = [
-        new(0, "Pumba", "Euzinho da Silva", 2006)
-    ];
+    public class LivrosDB
+    {
+        public static readonly List<Livro> Livros = [
+            new(1, "Pumba", "Euzinho da Silva", 2006)
+        ];
 
-    internal static List<Livro> Livros { get => livros; set => livros = value; }
+    }
 }

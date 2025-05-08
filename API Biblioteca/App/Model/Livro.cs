@@ -1,6 +1,6 @@
 namespace API_Biblioteca.App.Model;
 
-class Livro(int Id, string Titulo, string Autor, int AnoPublicacao)
+public class Livro(int Id, string Titulo, string Autor, int AnoPublicacao)
 {
     public int Id { get; set; } = Id;
 
